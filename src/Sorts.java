@@ -19,7 +19,7 @@ import java.io.FileWriter;
  */
 public class Sorts {
 
-    static final int MAX_LINES = 1000000; // Number of lines you want to read in
+    static final int MAX_LINES = 100000; // Number of lines you want to read in
 
     public static void main(String[] args) {
         String linesReadFileName = ""; // Input file name
